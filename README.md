@@ -1,1 +1,1 @@
-# knn-movie-recommendation
+# Movie Recommendation
